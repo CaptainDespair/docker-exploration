@@ -1,4 +1,4 @@
-# DockerDevelopment
+# docker-exploration
 //выполнено в качестве освоения технологии контейнеризации Docker//
 1. Первый файл - Dockerfile. Командой:
 
